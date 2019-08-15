@@ -237,7 +237,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_035.jpg\">\"I cannot imagine how they will spend half of it.\"</a>"
+    "innerHtml": "[\"I cannot imagine how they will spend half of it.\"](images/image_035.jpg \")"
   },
   {
     "tag": "blockquote",
@@ -489,7 +489,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_050.jpg\">So shy before company.</a><br>So shy before company."
+    "innerHtml": "<a href=\"images/image_050.jpg\" title=\"So shy before company.\">So shy before company.</a>"
   },
   {
     "tag": "p",
@@ -1377,7 +1377,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_083.jpg\">\"I have found you out in spite of all your tricks.\"</a><br>\"I have found you out in spite of all your tricks.\""
+    "innerHtml": "<a href=\"images/image_083.jpg\" title=\"I have found you out in spite of all your tricks.\">\"I have found you out in spite of all your tricks.\"</a>"
   },
   {
     "tag": "p",
@@ -1549,7 +1549,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_090.jpg\">Apparently in violent affliction.</a><br>Apparently in violent affliction."
+    "innerHtml": "<a href=\"images/image_090.jpg\" title=\"Apparently in violent affliction.\">Apparently in violent affliction.</a>"
   },
   {
     "tag": "p",
@@ -1797,7 +1797,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_100.jpg\">Begging her to stop.</a><br>Begging her to stop."
+    "innerHtml": "<a href=\"images/image_100.jpg\" title=\"Begging her to stop.\">Begging her to stop.</a>"
   },
   {
     "tag": "p",
@@ -2181,7 +2181,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_111.jpg\">Came to take a survey of the guest.</a><br>Came to take a survey of the guest."
+    "innerHtml": "<a href=\"images/image_111.jpg\" title=\"Came to take a survey of the guest.\">Came to take a survey of the guest.</a>"
   },
   {
     "tag": "p",
@@ -2377,7 +2377,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_119.jpg\">\"I declare they are quite charming.\"</a><br>\"I declare they are quite charming.\""
+    "innerHtml": "<a href=\"images/image_119.jpg\" title=\"I declare they are quite charming.\">\"I declare they are quite charming.\"</a>"
   },
   {
     "tag": "p",
@@ -2713,7 +2713,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_130.jpg\">Mischievous tricks.</a><br>Mischievous tricks."
+    "innerHtml": "<a href=\"images/image_130.jpg\" title=\"Mischievous tricks.\">Mischievous tricks.</a>"
   },
   {
     "tag": "p",
@@ -2837,7 +2837,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_135.jpg\">Drinking to her best affections.</a><br>Drinking to her best affections."
+    "innerHtml": "<a href=\"images/image_135.jpg\" title=\"Drinking to her best affections.\">Drinking to her best affections.</a>"
   },
   {
     "tag": "p",
@@ -2925,7 +2925,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_139.jpg\">Amiably bashful.</a><br>Amiably bashful."
+    "innerHtml": "<a href=\"images/image_139.jpg\" title=\"Amiably bashful.\">Amiably bashful.</a>"
   },
   {
     "tag": "p",
@@ -3281,7 +3281,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_153.jpg\">\"I can answer for it,\" said Mrs. Jennings.</a><br>\"I can answer for it,\" said Mrs. Jennings."
+    "innerHtml": "[\"I can answer for it,\" said Mrs. Jennings.](images/image_153.jpg \"I can answer for it,\" said Mrs. Jennings.\")"
   },
   {
     "tag": "p",
@@ -3825,7 +3825,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_176.jpg\">At that moment she first perceived him.</a><br>At that moment she first perceived him."
+    "innerHtml": "<a href=\"images/image_176.jpg\" title=\"At that moment she first perceived him.\">At that moment she first perceived him.</a>"
   },
   {
     "tag": "p",
@@ -4317,7 +4317,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_195.jpg\">\"How fond he was of it!\"</a><br>\"How fond he was of it!\""
+    "innerHtml": "<a href=\"images/image_195.jpg\" title=\"How fond he was of it!\">\"How fond he was of it!\"</a>"
   },
   {
     "tag": "p",
@@ -4605,7 +4605,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_210.jpg\">Offered him one of Folly's puppies.</a><br>Offered him one of Folly's puppies."
+    "innerHtml": "<a href=\"images/image_210.jpg\" title=\"Offered him one of Folly's puppies.\">Offered him one of Folly's puppies.</a>"
   },
   {
     "tag": "p",
@@ -4705,7 +4705,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_214.jpg\">A very smart beau.</a><br>A very smart beau."
+    "innerHtml": "<a href=\"images/image_214.jpg\" title=\"A very smart beau.\">A very smart beau.</a>"
   },
   {
     "tag": "p",
@@ -4769,7 +4769,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_217.jpg\">Introduced to Mrs. Jennings.</a><br>Introduced to Mrs. Jennings."
+    "innerHtml": "<a href=\"images/image_217.jpg\" title=\"Introduced to Mrs. Jennings.\">Introduced to Mrs. Jennings.</a>"
   },
   {
     "tag": "p",
@@ -4801,7 +4801,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_219.jpg\">Mrs. Jennings assured him directly that she should not\nstand upon ceremony.</a><br>Mrs. Jennings assured him directly that she should not stand upon ceremony."
+    "innerHtml": "<a href=\"images/image_219.jpg\" title=\"Mrs. Jennings assured him directly that she should not stand upon ceremony.\">Mrs. Jennings assured him directly that she should not\nstand upon ceremony.</a>"
   },
   {
     "tag": "p",
@@ -5109,7 +5109,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_231.jpg\">Mrs. Ferrars.</a><br>Mrs. Ferrars."
+    "innerHtml": "<a href=\"images/image_231.jpg\" title=\"Mrs. Ferrars.\">Mrs. Ferrars.</a>"
   },
   {
     "tag": "p",
@@ -5337,7 +5337,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[Drawing him a little aside.<a href=\"images/image_239.jpg\">216</a><br>Drawing him a little aside."
+    "innerHtml": "[Drawing him a little aside.<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/sense-and-sensibility/master/assets/images/image_239.jpg\" alt=\"216\" title=\"Drawing him a little aside.\">"
   },
   {
     "tag": "hr",
@@ -5493,7 +5493,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_249.jpg\">In a whisper.</a><br>In a whisper."
+    "innerHtml": "<a href=\"images/image_249.jpg\" title=\"In a whisper.\">In a whisper.</a>"
   },
   {
     "tag": "p",
@@ -5617,7 +5617,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_256.jpg\">\"You have heard, I suppose.\"</a><br>\"You have heard, I suppose.\""
+    "innerHtml": "<a href=\"images/image_256.jpg\" title=\"You have heard, I suppose.\">\"You have heard, I suppose.\"</a>"
   },
   {
     "tag": "p",
@@ -5693,7 +5693,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_260.jpg\">Talking over the business.</a><br>Talking over the business."
+    "innerHtml": "<a href=\"images/image_260.jpg\" title=\"Talking over the business.\">Talking over the business.</a>"
   },
   {
     "tag": "p",
@@ -5785,7 +5785,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_264.jpg\">\"She put in the feather last night.\"</a><br>\"She put in the feather last night.\""
+    "innerHtml": "<a href=\"images/image_264.jpg\" title=\"She put in the feather last night.\">\"She put in the feather last night.\"</a>"
   },
   {
     "tag": "p",
@@ -5813,7 +5813,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_267.jpg\">Listening at the door.</a><br>Listening at the door."
+    "innerHtml": "<a href=\"images/image_267.jpg\" title=\"Listening at the door.\">Listening at the door.</a>"
   },
   {
     "tag": "p",
@@ -6193,7 +6193,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_282.jpg\">Both gained considerable amusement</a><br>Both gained considerable amusement"
+    "innerHtml": "<a href=\"images/image_282.jpg\" title=\"Both gained considerable amusement\">Both gained considerable amusement</a>"
   },
   {
     "tag": "p",
@@ -6353,7 +6353,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_288.jpg\">\"Of one thing I may assure you.\"</a><br>\"Of one thing I may assure you.\""
+    "innerHtml": "<a href=\"images/image_288.jpg\" title=\"Of one thing I may assure you.\">\"Of one thing I may assure you.\"</a>"
   },
   {
     "tag": "p",
@@ -6425,7 +6425,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_293.jpg\">Showing her child to the housekeeper.</a><br>Showing her child to the housekeeper."
+    "innerHtml": "<a href=\"images/image_293.jpg\" title=\"Showing her child to the housekeeper.\">Showing her child to the housekeeper.</a>"
   },
   {
     "tag": "p",
@@ -6445,7 +6445,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_295.jpg\">The gardener's lamentations.</a><br>The gardener's lamentations."
+    "innerHtml": "<a href=\"images/image_295.jpg\" title=\"The gardener's lamentations.\">The gardener's lamentations.</a>"
   },
   {
     "tag": "p",
@@ -6597,7 +6597,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<a href=\"images/image_306.jpg\">\"I entreat you to stay.\"</a><br>\"<em>Opened a window-shutter.</em>\""
+    "innerHtml": "<a href=\"images/image_306.jpg\" title=\"_Opened a window-shutter._\">\"I entreat you to stay.\"</a>"
   },
   {
     "tag": "hr",
@@ -6777,7 +6777,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "[Missing Illustration: \"<em>I was formally dismissed.</em>\"]"
+    "innerHtml": "![Missing Illustration: \"<em>I was formally dismissed.</em>\"]"
   },
   {
     "tag": "p",
